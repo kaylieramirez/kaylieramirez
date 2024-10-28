@@ -1,0 +1,933 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  line-height: 1.6;
+  background-color: #faedcf;
+  font-family: "Playfair Display";
+  font-size: 1.2rem;
+  color: #00000;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-transform: uppercase;
+  color: #D00909;
+}
+
+.logo2 img {
+  width: 40%;
+}
+
+.local {
+  color: #D00909;
+}
+
+header {
+  background-color: black;
+}
+
+nav {
+  text-align: right;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: orangered
+}
+
+.local {
+  color: #D00909;
+}
+
+.magic img {
+  width: 100%;
+  height: auto;
+}
+
+.paint img {
+  width: 100%;
+  height: 50%;
+}
+
+.arts h1 {
+  text-align: center;
+  font-size: 1.7rem;
+}
+
+.latest {
+  background-color: black;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+.latest a {
+  color: white;
+  text-decoration: none;
+}
+
+.surf {
+  background-color: white;
+  padding: 2%;
+}
+
+.surf figure {
+  clear: left;
+}
+
+.surf img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.surf figcaption {
+  width: 65%;
+  float: left;
+}
+
+.load {
+  clear: left;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D00909;
+}
+
+.load {
+  color: white;
+  text-decoration: none;
+}
+
+.car img {
+  width: 100%;
+}
+
+
+.arts figure {
+  clear: left;
+}
+
+.arts img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.arts figcaption {
+  width: 65%;
+  float: left;
+}
+
+.arts {
+  background-color: white;
+}
+
+.eat {
+  background-color: #faedcf;
+}
+
+.eatanddrink h1 {
+  text-align: center;
+  font-size: 1.9em;
+}
+
+.pastacropped img {
+  width: 40%;
+  display: block;
+}
+
+.pastacropped figure {
+  clear: left;
+}
+
+.pastacropped img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.pastacropped figcaption {
+  width: 65%;
+  float: left;
+}
+
+.brass figure {
+  clear: left;
+}
+
+.brass img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.brass figcaption {
+  width: 65%;
+  float: left;
+}
+
+.eatanddrink figure {
+  width: 50%;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.BestMB {
+  clear: left;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D00909;
+}
+
+.BestMB {
+  color: white;
+  text-decoration: none;
+}
+
+.aquarium {
+  width: 100%;
+  font-size: 16px;
+}
+
+.aquarium img {
+  width: 100%;
+  font-size: 16px;
+}
+
+.market img {
+  width: 100%;
+  font-size: 16px;
+}
+
+.market {
+  width: 100%;
+  font-size: 16px;
+}
+
+/* .lp {
+  h3
+  {text-align: left;
+  font-size: 1rem;}
+} */
+
+.lp img {
+  width: 100%;
+  font-size: 16px;
+}
+
+.lp {
+  width: 100%;
+  font-size: 16px;
+}
+
+.car {
+  h3 text-align: center;
+  font-size: 16px;
+}
+
+
+footer {
+  display: block;
+  font-size: .9em;
+  color: white;
+  background-color: black;
+}
+
+.info {
+  text-align: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
+
+.affiliated {
+  text-align: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+
+}
+
+.follow {
+  text-align: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+
+}
+
+.loadmore {
+  clear: left;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D00909;
+}
+
+.loadmore {
+  color: white;
+  text-decoration: none;
+}
+
+.beerpourcrop img {
+  width: 100% height: auto;
+}
+
+.winecrop img {
+  width: 100%;
+  height: auto;
+}
+
+.herb img {
+  width: 100%;
+  height: auto;
+}
+
+.resturaunt img {
+  width: 100%;
+  height: auto;
+}
+
+.title {
+  background-color: #D00909;
+  color: white;
+}
+
+.become {
+  background-color: white;
+  text-align: center;
+}
+
+
+@media all and (min-width: 800px) 
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  line-height: 1.6;
+  background-color: #faedcf;
+  font-family: "Playfair Display";
+  font-size: 1.2rem;
+  color: #00000;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-transform: uppercase;
+  color: #D00909;
+}
+
+.logo2 img {
+  width: 40%;
+}
+
+.local {
+  color: #D00909;
+}
+
+header {
+  background-color: black;
+}
+
+nav {
+  text-align: right;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: orangered
+}
+
+.local {
+  color: #D00909;
+}
+
+.magic img {
+  width: 100%;
+  height: auto;
+}
+
+.paint img {
+  width: 100%;
+  height: 50%;
+}
+
+.arts h1 {
+  text-align: center;
+  font-size: 1.7rem;
+}
+
+.latest {
+  background-color: black;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+.latest a {
+  color: white;
+  text-decoration: none;
+}
+
+.surf {
+  background-color: white;
+  padding: 2%;
+}
+
+.surf figure {
+  clear: left;
+}
+
+.surf img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.surf figcaption {
+  width: 65%;
+  float: left;
+}
+
+.load {
+  clear: left;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D00909;
+}
+
+.load {
+  color: white;
+  text-decoration: none;
+}
+
+.car img {
+  width: 100%;
+}
+
+.arts figure {
+  clear: left;
+}
+
+.arts img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.arts figcaption {
+  width: 65%;
+  float: left;
+}
+
+.arts {
+  background-color: white;
+}
+
+.eat {
+  background-color: #faedcf;
+}
+
+.eatanddrink h1 {
+  text-align: center;
+  font-size: 1.9em;
+}
+
+.pastacropped img {
+  width: 40%;
+  display: block;
+}
+
+.pastacropped figure {
+  clear: left;
+}
+
+.pastacropped img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.pastacropped figcaption {
+  width: 65%;
+  float: left;
+}
+
+.brass figure {
+  clear: left;
+}
+
+.brass img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.brass figcaption {
+  width: 65%;
+  float: left;
+}
+
+.eatanddrink figure {
+  width: 50%;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.BestMB {
+  clear: left;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D00909;
+}
+
+.BestMB {
+  color: white;
+  text-decoration: none;
+}
+
+.aquarium {
+  width: 100%;
+  font-size: 16px;
+}
+
+.aquarium img {
+  width: 100%;
+  font-size: 16px;
+}
+
+.market img {
+  width: 100%;
+  font-size: 16px;
+}
+
+.market {
+  width: 100%;
+  font-size: 16px;
+}
+
+/* .lp {
+  h3
+  {text-align: left;
+  font-size: 1rem;}
+} */
+
+.lp img {
+  width: 100%;
+  font-size: 16px;
+}
+
+.lp {
+  width: 100%;
+  font-size: 16px;
+}
+
+.car {
+  h3 text-align: center;
+  font-size: 16px;
+}
+
+
+footer {
+  display: block;
+  font-size: .9em;
+  color: white;
+  background-color: black;
+}
+
+.info {
+  text-align: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
+
+.affiliated {
+  text-align: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+
+}
+
+.follow {
+  text-align: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+
+}
+
+.loadmore {
+  clear: left;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D00909;
+}
+
+.loadmore {
+  color: white;
+  text-decoration: none;
+}
+
+.beerpourcrop img {
+  width: 100% height: auto;
+}
+
+.winecrop img {
+  width: 100%;
+  height: auto;
+}
+
+.herb img {
+  width: 100%;
+  height: auto;
+}
+
+.resturaunt img {
+  width: 100%;
+  height: auto;
+}
+
+.title {
+  background-color: #D00909;
+  color: white;
+}
+
+.become {
+  background-color: white;
+  text-align: center;
+}
+
+
+@media all and (max-width: 800px)
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  line-height: 1.6;
+  background-color: #faedcf;
+  font-family: "Playfair Display";
+  font-size: 1.2rem;
+  color: #00000;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-transform: uppercase;
+  color: #D00909;
+}
+
+.logo2 img {
+  width: 40%;
+}
+
+.local {
+  color: #D00909;
+}
+
+header {
+  background-color: black;
+}
+
+nav {
+  text-align: right;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: orangered
+}
+
+.local {
+  color: #D00909;
+}
+
+.magic img {
+  width: 100%;
+  height: auto;
+}
+
+.paint img {
+  width: 100%;
+  height: 50%;
+}
+
+.arts h1 {
+  text-align: center;
+  font-size: 1.7rem;
+}
+
+.latest {
+  background-color: black;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+.latest a {
+  color: white;
+  text-decoration: none;
+}
+
+.surf {
+  background-color: white;
+  padding: 2%;
+}
+
+.surf figure {
+  clear: left;
+}
+
+.surf img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.surf figcaption {
+  width: 65%;
+  float: left;
+}
+
+.load {
+  clear: left;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D00909;
+}
+
+.load {
+  color: white;
+  text-decoration: none;
+}
+
+.car img {
+  width: 100%;
+}
+
+
+.arts figure {
+  clear: left;
+}
+
+.arts img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.arts figcaption {
+  width: 65%;
+  float: left;
+}
+
+.arts {
+  background-color: white;
+}
+
+.eat {
+  background-color: #faedcf;
+}
+
+.eatanddrink h1 {
+  text-align: center;
+  font-size: 1.9em;
+}
+
+.pastacropped img {
+  width: 40%;
+  display: block;
+}
+
+.pastacropped figure {
+  clear: left;
+}
+
+.pastacropped img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.pastacropped figcaption {
+  width: 65%;
+  float: left;
+}
+
+.brass figure {
+  clear: left;
+}
+
+.brass img {
+  display: block;
+  width: 31%;
+  float: left;
+}
+
+.brass figcaption {
+  width: 65%;
+  float: left;
+}
+
+.eatanddrink figure {
+  width: 50%;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.BestMB {
+  clear: left;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D00909;
+}
+
+.BestMB {
+  color: white;
+  text-decoration: none;
+}
+
+.aquarium {
+  width: 100%;
+  font-size: 16px;
+}
+
+.aquarium img {
+  width: 100%;
+  font-size: 16px;
+}
+
+.market img {
+  width: 100%;
+  font-size: 16px;
+}
+
+.market {
+  width: 100%;
+  font-size: 16px;
+}
+
+/* .lp {
+  h3
+  {text-align: left;
+  font-size: 1rem;}
+} */
+
+.lp img {
+  width: 100%;
+  font-size: 16px;
+}
+
+.lp {
+  width: 100%;
+  font-size: 16px;
+}
+
+.car {
+  h3 text-align: center;
+  font-size: 16px;
+}
+
+footer {
+  display: block;
+  font-size: .9em;
+  color: white;
+  background-color: black;
+}
+
+.info {
+  text-align: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
+
+.affiliated {
+  text-align: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
+
+.follow {
+  text-align: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
+
+.loadmore {
+  clear: left;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #D00909;
+}
+
+.loadmore {
+  color: white;
+  text-decoration: none;
+}
+
+.beerpourcrop img {
+  width: 100% height: auto;
+}
+
+.winecrop img {
+  width: 100%;
+  height: auto;
+}
+
+.herb img {
+  width: 100%;
+  height: auto;
+}
+
+.resturaunt img {
+  width: 100%;
+  height: auto;
+}
+
+.title {
+  background-color: #D00909;
+  color: white;
+}
+
+.become {
+  background-color: white;
+  text-align: center;
+}
+
+
+
+}
